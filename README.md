@@ -1,6 +1,6 @@
 # YouTubeAPI-sdk-java
 
-#### library installation
+### Library installation
 Maven
 ```xml
 <dependency>
