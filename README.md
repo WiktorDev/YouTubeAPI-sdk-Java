@@ -13,7 +13,7 @@ Maven
 <repository>
     <id>api</id>
     <name>ytapi</name>
-    <url>https://maven.ycode.xyz/releases</url>
+    <url>https://repo.ycode.xyz/releases</url>
 </repository>
 ```
 ### Creating an instance
